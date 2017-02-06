@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlcoHeap</string>
+    <string name="hello">Hello, World!</string>
+    <string name="def_text">
+        <b>Push</b> it to get your choice today. \n
+    </string>
+</resources>
