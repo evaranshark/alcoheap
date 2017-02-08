@@ -10,18 +10,20 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="evarancorp.alcoheap.MainActivity">
 
-    <ImageView
-        android:src="@drawable/bottle"
+    <ImageButton
+        android:src="@drawable/bottles_vd"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/imageView"
-        android:cropToPadding="false"
-        android:adjustViewBounds="false"
         android:scaleType="fitCenter"
-        android:layout_marginTop="154dp"
-        android:layout_alignParentTop="true"
+        android:onClick="OnClick"
+        android:adjustViewBounds="false"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="129dp"
         android:layout_centerHorizontal="true"
-        android:onClick="OnClick" />
+        android:cropToPadding="false"
+        android:background="@android:color/transparent" />
 
     <ScrollView
         android:layout_width="match_parent"
@@ -36,5 +38,8 @@
             android:layout_height="wrap_content"
             android:id="@+id/textView"
             android:textSize="18sp" />
+
     </ScrollView>
+
+
 </RelativeLayout>
