@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Бухлишко</string>
+    <string name="hello">Хаюшки!</string>
+    <string name="def_text">Нажми кнопку выше и узнай, что ты сегодня будешь пить :) \n
+    </string>
+    <string name="help">Справка</string>
+    <string name="title_activity_help">Справка</string>
+    <string name="help_content">Здесь будет помощь :)</string>
+</resources>

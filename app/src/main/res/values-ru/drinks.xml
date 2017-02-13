@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drink_titles">
+        <item>Водка</item>
+        <item>Ликёр</item>
+    </string-array>
+</resources>
